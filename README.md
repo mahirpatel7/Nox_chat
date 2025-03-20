@@ -28,7 +28,7 @@ Follow these clear instructions to configure and run Velox on your local system 
 ## 🔹 Step 1: Clone the Repository
 
  git clone https://github.com/KavanKumarpatel/Velox.git <br />
- cd Velox
+ cd Nox_chat
 ## 🔹 Step 2: Configure Backend Environment
 📄 Rename the .Simpleenv file to .env in the Nox_chat_Backend folder.<br />
 🛠️ Change the port number in the .env file to:PORT=5000
