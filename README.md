@@ -64,7 +64,7 @@ Follow these clear instructions to configure and run Velox on your local system 
 
 ## 🧠💬 4.Velox AI and 🎥📞 Video Chat
 ![WhatsApp Image 2025-03-20 at 20 54 58_fccbadb3](https://github.com/user-attachments/assets/a9544f73-b8f0-4d67-8262-6450cce2c5df)
-![WhatsApp Image 2025-03-20 at 20 54 59_44e78f29](https://github.com/user-attachments/assets/238be39a-38d4-419c-b1ff-ca15df24ebb0)
+(https://github.com/user-attachments/assets/238be39a-38d4-419c-b1ff-ca15df24ebb0)
 
 
 
